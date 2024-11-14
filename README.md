@@ -2,7 +2,7 @@
 
 - [Presentación](#Presentacion)
 - [Instalación](#Instalación)
-- [Iniciar el programa](#Descargar_y_Descomprimir_el_archivo)
+- [Iniciar el programa](#Iniciar_el_programa)
 - [Ejecución del programa](#Ejecución)
 
 ## Presentación
@@ -63,7 +63,7 @@ Luego, confirmamos y aceptamos.
 
 
 
-*Descargar y Descomprimir el archivo `.zip`**  
+* Iniciar el programa
 
 - Descargamos mediante el enlace a **GitHub** el archivo **.zip**.
 - Creamos una carpeta en **C:** con el nombre que queramos e introducimos el archivo `.zip` que hemos descargado.
