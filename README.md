@@ -1,9 +1,9 @@
 # Índice
 
-- [Presentación](#presentacion)
+- [Presentación](#Presentacion)
 - [Instalación](#instalacion)
 - [Iniciar el programa](#iniciar-el-programa)
-- [Funcionamiento](#Ejecución)
+- [Ejecución del programa](#Ejecución)
 
 ## Presentación
 
