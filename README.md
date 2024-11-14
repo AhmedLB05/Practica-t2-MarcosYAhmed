@@ -41,7 +41,7 @@ Si está buscando una solución profesional y confiable para gestionar la venta 
 
 ## Instalación
 
-Para poder ejecutar el programa, debemos instalar el **JDK 23**. [Haz clic aquí para descargarlo directamente en tu ordenador](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe) sobre el ejecutable. El programa comenzará a funcionar.
+Para poder ejecutar el programa, debemos instalar el **JDK 23**. [Haz clic aquí para descargarlo directamente en tu ordenador](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe) El programa comenzará a descargarse automáticamente y deberá ejecutar el instalador.
 
 # Iniciar
 Descargamos mediante el enlace a GitHub el archivo .zip.
