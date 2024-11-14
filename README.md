@@ -82,3 +82,59 @@ Luego, confirmamos y aceptamos.
 - Descomprimimos el archivo y abrimos la carpeta que se genera.
 - Entramos en la carpeta **out\artifacts\PracticaObligatoriaT2_jar**, y pulsamos sobre el ejecutable. El programa comenzará a funcionar.
 
+# Ejecución
+#### - Al ejecutar el programa nos saldrá el nombre del teatro  y las diferentes opciones de las que disponemos:
+	Nos permitirá vender entradas
+	Nos permitirá consultar el estado de un evento (Entradas libres, descuento...)
+	Acceso al menú administrador a traves de un usuario y contraseña pedidos por teclado
+
+
+![Captura de pantalla 2024-11-14 161903](https://github.com/user-attachments/assets/27f1bc27-be4a-41d3-baf5-fbee16fe6960)
+
+####  - Después, al pulsar la primera opción que sirve para vender entradas nos preguntará sobre que entrada de concierto queremos venderla: 
+		
+![Captura de pantalla 2024-11-14 161915](https://github.com/user-attachments/assets/68a50dbb-4088-41c8-9b20-8d8882089948)
+
+#### - Tomando como ejemplo la opción "1":
+- ###### Nos aparecera el título del evento y los diferentes tipos de asientos que existen.
+![Captura de pantalla 2024-11-14 161922](https://github.com/user-attachments/assets/53d947b5-dcc2-4805-afa4-286a9eaefaf9)
+
+#### - Nos preguntará sobre el número de entradas que deseamos comprar
+![Captura de pantalla 2024-11-14 161929](https://github.com/user-attachments/assets/362311d7-60fa-4f67-9986-3de801985294)
+
+#### - Al introducir el número de entradas que deseamos:
+- ###### Nos preguntará por la fecha en la que estamos realizando la compra y después nos dirá si podemos tener un descuento o no.
+- ###### Nos imprime el recibo con el IVA incluido y nos preguntará cuando dinero introduciremos, después introducimos con cuánto dinero vamos a pagar, y nos mostrará el cambio y los billetes y monedas que nos dará
+
+-![Captura de pantalla 2024-11-14 162006](https://github.com/user-attachments/assets/dc7a82f4-8f44-4259-b2cb-6446cedc272a)
+
+#### - A continuación, nos irá mostrando entrada por entrada:
+![Captura de pantalla 2024-11-14 162015](https://github.com/user-attachments/assets/03990b90-c11d-487b-a917-74336899fa85)
+
+#### - Volviendo al menú principal en la opción b podemos consultar cualquier evento:
+![Captura de pantalla 2024-11-14 162037](https://github.com/user-attachments/assets/4ace897f-e994-474a-9d3d-1c1ffa21f00e)
+
+#### - Al elegir el evento de "Las Criadas":
+- ###### Podemos ver que falta una entrada
+- ###### El costo de entrada segun el sitio
+- ###### Dias restantes al evento
+![Captura de pantalla 2024-11-14 162046](https://github.com/user-attachments/assets/ce2d94b0-1882-41fb-8fc1-9bebc3379209)
+
+#### En el menú admin nos pedirá el usuario y contraseña:
+	 (será "admin" para ambos)
+###### Podemos consultar:
+- ###### 1.Los ingresos totales
+- ###### 2.Monedas restantes
+- ###### 3.Apagar el sofware
+![Captura de pantalla 2024-11-14 162102](https://github.com/user-attachments/assets/7d340237-2787-4362-bcaf-64f2bf671bbf)
+
+#### Al elegir la opcion 1:
+###### Nos muestra los ingresos totales que hemos conseguido
+![Captura de pantalla 2024-11-14 162127](https://github.com/user-attachments/assets/b82d2b60-a79a-4499-9ab7-3f80746454fe)
+
+#### Al elegir la opción 2:
+###### Nos mostrara los billetes y monedas restantes que nos queda para el cambio
+![Captura de pantalla 2024-11-14 162213](https://github.com/user-attachments/assets/507ab413-56fd-4eb2-adeb-006a0ba93baf)
+
+#### En la opción 3 saldremos del programa
+![Captura de pantalla 2024-11-14 162340](https://github.com/user-attachments/assets/22839254-1ca0-4302-95dc-91a5b1b67d71)
