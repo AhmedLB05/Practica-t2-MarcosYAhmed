@@ -2,7 +2,7 @@
 
 - [Presentación](#Presentacion)
 - [Instalación](#Instalación)
-- [Iniciar el programa](#Iniciar)
+- [Iniciar el programa](#Iniciar_el_programa)
 - [Ejecución del programa](#Ejecución)
 
 ## Presentación
@@ -61,7 +61,7 @@ Para poder ejecutar el programa, debemos instalar el **JDK 21**. [Haz clic aquí
 
 Luego, confirmamos y aceptamos.
 
-* Iniciar
+# Iniciar el programa
   
 - Descargamos mediante el enlace a **GitHub** el archivo **.zip**.
 - Creamos una carpeta en **C:** con el nombre que queramos e introducimos el archivo `.zip` que hemos descargado.
