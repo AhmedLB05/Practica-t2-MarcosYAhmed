@@ -2,7 +2,7 @@
 
 - [Presentación](#Presentacion)
 - [Instalación](#Instalación)
-- [Iniciar el programa](#iniciar-el-programa)
+- [Iniciar el programa](#Descargar_y_Descomprimir_el_archivo)
 - [Ejecución del programa](#Ejecución)
 
 ## Presentación
