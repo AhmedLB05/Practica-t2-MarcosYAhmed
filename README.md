@@ -48,5 +48,5 @@ Para poder ejecutar el programa, debemos instalar el **JDK 23**. [Haz clic aquí
    Para configurar las variables de entorno en Windows:
    - Abre el menú de inicio y busca **Variables de entorno**.
    - Aparecerá una ventana; selecciona la opción **Variables de entorno** para continuar con la configuración.
-   ![Variables de Entorno en Windows](https://discord.com/channels/@me/1179129094626086944/1306641173833846814)
+   ![Variables de Entorno en Windows](https://drive.google.com/file/d/1luOpgBzSyhCijIHpLbO332UEaGnaxtof/view?usp=sharing)
 
