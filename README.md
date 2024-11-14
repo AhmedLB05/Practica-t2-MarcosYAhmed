@@ -39,19 +39,6 @@ Si está buscando una solución profesional y confiable para gestionar la venta 
 
 ## Instalación
 
-Para poder ejecutar el programa, debemos instalar el **JDK 23**. [Haz clic aquí para descargarlo directamente en tu ordenador](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe).
-
-1. **Instalación del JDK 21**  
-   Una vez descargado, instala el JDK y asegúrate de que se encuentra en la ruta `C:\Program Files\Java`.
-
-2. **Configuración de Variables de Entorno**  
-   Para configurar las variables de entorno en Windows:
-   - Abre el menú de inicio y busca **Variables de entorno**.
-   - Aparecerá una ventana; selecciona la opción **Variables de entorno** para continuar con la configuración.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1luOpgBzSyhCijIHpLbO332UEaGnaxtof)
-
-## Instalación
-
 Para poder ejecutar el programa, debemos instalar el **JDK 21**. [Haz clic aquí para descargarlo directamente en tu ordenador](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
 1. **Instalación del JDK 21**  
