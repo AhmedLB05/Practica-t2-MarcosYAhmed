@@ -63,7 +63,8 @@ Luego, confirmamos y aceptamos.
 
 
 
-3. **Descargar y Descomprimir el archivo `.zip`**  
+*Descargar y Descomprimir el archivo `.zip`**  
+
 - Descargamos mediante el enlace a **GitHub** el archivo **.zip**.
 - Creamos una carpeta en **C:** con el nombre que queramos e introducimos el archivo `.zip` que hemos descargado.
 - Descomprimimos el archivo y abrimos la carpeta que se genera.
