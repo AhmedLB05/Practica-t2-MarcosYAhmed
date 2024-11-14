@@ -45,6 +45,11 @@ Para poder ejecutar el programa, debemos instalar el **JDK 23**. [Haz clic aquí
 
 sobre el ejecutable. El programa comenzará a funcionar.
 
+# Iniciar
+Descargamos mediante el enlace a GitHub el archivo .zip.
+Descomprimimos el archivo y abrimos la carpeta que se genera.
+Entramos en la carpeta out\artifacts\PracticaObligatoriaT2_jar, y pulsamos sobre el ejecutable llamado "PracticaOPbligatoriaTema2.bat". El programa comenzará a funcionar.
+
 # Ejecución
 #### - Al ejecutar el programa nos saldrá el nombre del teatro  y las diferentes opciones de las que disponemos:
 	Nos permitirá vender entradas
