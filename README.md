@@ -3,7 +3,7 @@
 - [Presentación](#presentacion)
 - [Instalación](#instalacion)
 - [Iniciar el programa](#iniciar-el-programa)
-- [Funcionamiento](#funcionamiento)
+- [Funcionamiento](#Ejecución)
 
 ## Presentación
 
